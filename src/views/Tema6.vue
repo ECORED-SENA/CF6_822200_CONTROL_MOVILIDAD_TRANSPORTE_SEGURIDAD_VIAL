@@ -191,7 +191,7 @@
             th.p-3(style="font-weight: normal; border-right: 1px solid black") Desarrollada con la finalidad de ir moldeando (creando) una conducta objetiva de manera gradual.
           tr
             th.p-3.text-center(style="font-weight: normal; border-right: 1px solid black") Desvanecimiento
-            th.p-3(style="font-weight: normal; border-right: 1px solid black") Esta técnica trata de retirar gradualmente los refuerzos positivos o negativos utilizados para crear una conducta meta, con el fin de que el individuo aprenda a realizarla por sí mismo
+            th.p-3(style="font-weight: normal; border-right: 1px solid black") Esta técnica trata de retirar gradualmente los refuerzos positivos o negativos utilizados para crear una conducta meta, con el fin de que el individuo aprenda a realizarla por sí mismo.
           tr
             th.p-3.text-center(style="font-weight: normal; border-right: 1px solid black") Encadenamiento
             th.p-3(style="font-weight: normal; border-right: 1px solid black") La conducta se divide en conductas múltiples representadas en eslabones, las cuales a través de su cumplimiento moldean una conducta base.
@@ -322,7 +322,7 @@
         .col-md(data-aos="fade-left")
           p.text-start.mb-0 Seguimiento y evaluación.
 
-    p.mb-0(data-aos="fade-right") De igual forma, en la página web de esta agencia encuentra de manera gratuita apoyos educativos para docentes y estudiantes que quieran fortalecer sus conocimientos en el tema de la seguridad vial, recomendando su consulta para apalancar sus prácticas pedagógicas como profesionales.
+    p.mb-0(data-aos="fade-right") De igual forma, en la página #[em web] de esta agencia encuentra de manera gratuita apoyos educativos para docentes y estudiantes que quieran fortalecer sus conocimientos en el tema de la seguridad vial, recomendando su consulta para apalancar sus prácticas pedagógicas como profesionales.
 </template>
 
 <script>

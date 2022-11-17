@@ -18,15 +18,15 @@
       .col-lg-4.col-xl-3.px-md-2.d-flex
         .tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-2.svg" style="max-width: 190px" data-aos="fade-right")
-          h4.text-center(data-aos="fade-left") Guardia de trafico
+          h4.text-center(data-aos="fade-left") Guardia de tráfico
       .col-lg-4.col-xl-3.px-md-2.d-flex
         .tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-3.svg" style="max-width: 190px" data-aos="fade-right")
-          h4.text-center(data-aos="fade-left") Lecciones sobre el trafico
+          h4.text-center(data-aos="fade-left") Lecciones sobre el tráfico
       .col-lg-4.col-xl-3.px-md-2.d-flex
         .tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-4.svg" style="max-width: 190px" data-aos="fade-right")
-          h4.text-center(data-aos="fade-left") Enseñar sobre las señales de transito
+          h4.text-center(data-aos="fade-left") Enseñar sobre las señales de tránsito
     
     .d-flex.flex-wrap.align-items-center.mb-5.p-4.tarjeta(style="background-color: #E8E8E8")
       p.order-2.order-xl-1.col-xl.pe-xl-5.mb-0(data-aos="fade-right") Ahora bien, los fundamentos pedagógicos en seguridad vial son los determinados por las normas de comportamiento vial y demás que regulan el tránsito y el transporte llevadas a ambientes educativos donde es el docente quien debe aterrizar estos temas bajo un contexto pedagógico en seguridad vial, reconociendo que el expositor o persona encargada de dar la orientación debe tener claro los conceptos a explicar y reconocer el público al cual se va a dirigir, ya que hablar de seguridad vial es un tema donde debe manejarse la realidad social y cultural de la movilidad del país. Las actividades pedagógicas que se pretendan realizar sobre este tema deben ser acordes a la etapa de la vida del grupo a ser capacitado, es por esto que se debe tener en cuenta lo establecido por el (Ministerio de Salud y Protección Social, 2022), frente al ciclo de vida que es un enfoque que permite entender las vulnerabilidades y las oportunidades de invertir durante etapas tempranas del desarrollo humano; reconoce que las experiencias se acumulan a lo largo de la vida y las conductas de una generación de actores viales repercutirán en otras personas, las cuales pueden estar en algún ciclo de la vida. 

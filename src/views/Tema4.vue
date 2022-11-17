@@ -16,7 +16,7 @@
     
     p.mb-5(data-aos="fade-right") Acorde con lo anterior, se define modelo pedagógico como aquella fenomenología de la educación que basa su esfuerzo en la comprensión de los diferentes teóricos y padres de la invención educativa y de sus diferentes contrastes nacidos a través del tiempo. A continuación se explican de manera general algunos modelos pedagógicos, para que posteriormente elija el modelo a utilizar para el desarrollo de sus clases cuando sea el momento:
 
-    ImagenInfograficaB.color-acento-contenido.mb-5(data-aos="fade-left")
+    ImagenInfograficaB.color-acento-contenido.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='Texto que describa la imagen')
@@ -27,7 +27,7 @@
           p.col-xl.pe-xl-4.mb-0.order-2.order-xl-1(style="color: black !important") Este modelo pedagógico también es conocido como el modelo externalista o escuela pasiva, centra el aprendizaje en el individuo de manera pasiva, es decir, fuentes externas generan el conocimiento del ser, por ejemplo, los maestros, los padres, el medio, entre otros. 
             br
             br
-            |Asimismo, este modelo maneja un enfoque conductista, en el que se considera que el maestro es la figura retórica que debe centrar sus esfuerzos en la creación de material para que el estudiante como objeto pasivo, interiorice y reproduzca el conocimiento.}
+            |Asimismo, este modelo maneja un enfoque conductista, en el que se considera que el maestro es la figura retórica que debe centrar sus esfuerzos en la creación de material para que el estudiante como objeto pasivo, interiorice y reproduzca el conocimiento.
           img.order-1.order-xl-2.mb-4.mb-xl-0.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema4/img-3.png" style="max-width: 293px")
       
       .tarjeta.p-4.p-xl-5(x="4.3%" y="49.3%" tooltip="Modelo romántico" numero="+" style="background-color: #FFF9DC")

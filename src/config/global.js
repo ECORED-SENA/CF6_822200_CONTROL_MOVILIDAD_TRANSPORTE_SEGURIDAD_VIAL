@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Promoción de procesos educativos y formación normativa en seguridad vial.',
+      'Promoción de procesos educativos y formación normativa en seguridad vial',
     descripcionCurso:
       'Es muy importante desarrollar competencias para ser un promotor de procesos educativos y formativos en seguridad vial, ya que el factor humano es el primer causante de accidentes de tránsito, y es la persona en calidad de actor vial quien toma las decisiones sobre el movimiento y mantenimiento de su vehículo o el correcto tránsito por las vías públicas.',
     imagenBannerPrincipal: '',
