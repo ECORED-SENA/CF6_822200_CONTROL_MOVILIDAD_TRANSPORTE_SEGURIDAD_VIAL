@@ -19,7 +19,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") La enseñanza
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") La enseñanza
     
     .d-flex.flex-wrap.align-items-center.mb-4
       .col-xl-7.mb-4.mb-xl-0.order-2.order-xl-1(data-aos="fade-right")
@@ -27,15 +27,15 @@
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
-              span a
+              span.fw-bold a
             | Métodos de enseñanza según el grado de participación de los sujetos.
           li 
             .lista-ol--cuadro__vineta
-              span b
+              span.fw-bold b
             | Métodos de enseñanza según el nivel de asimilación del contenido de enseñanza.
           li 
             .lista-ol--cuadro__vineta
-              span c
+              span.fw-bold c
             | La enseñanza problémica.
       img.mx-auto.col-xl-5.mb-4.mb-xl-auto.order-1.order-xl-2(src='@/assets/curso/temas/tema6/img-2.png' data-aos="fade-left" style="max-width: 505px")
     p.mb-5(data-aos="fade-right") Vea cada uno de estos métodos con mayor detalle:
@@ -94,7 +94,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") El aprendizaje
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") El aprendizaje
     
     .bg-text-edit.mb-5(data-aos="fade-right")
       img.mx-auto.mx-md-4.mb-4.mb-md-0(src="@/assets/curso/temas/tema6/img-6.svg" style="max-width: 75px")
@@ -108,7 +108,7 @@
     p.mb-5.fw-bold(data-aos="fade-right") Condicionamiento clásico
     .bg-text-edit-right.mb-5(data-aos="fade-right")
       p.pe-md-5.col-md.mb-0.order-2.order-md-1 Centrado en el aprendizaje a través de la asociación de estímulos con la generación de reacciones y/o respuestas además de las respuestas neutras. Sus principales teóricos son Pavlov y Watson y sus características destacadas recaen directamente en la implicación de las respuestas, ya que estas deben ser automáticas y no conductas voluntarias como lo menciona Castillero en su libro “Psicología y mente”. Ver tabla.
-      img.mx-auto.mx-md-4.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema6/img-7.svg" style="max-width: 70px")
+      img.mx-auto.me-md-5.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema6/img-7.svg" style="max-width: 70px")
     .col-xl-8.mx-auto(data-aos="fade-left")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 1.
@@ -137,7 +137,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Condicionamiento instrumental
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") Condicionamiento instrumental
     
     .bg-text-edit.mb-5(data-aos="fade-right")
       img.mx-auto.mx-md-4.mb-4.mb-md-0(src="@/assets/curso/temas/tema6/img-8.svg" style="max-width: 75px")
@@ -168,7 +168,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Condicionamiento operante
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") Condicionamiento operante
     
     .bg-text-edit-right.mb-5(data-aos="fade-left")
       p.pe-md-5.col-md.mb-0.order-2.order-md-1 Es una invención realizada por el Psicólogo B.F Skinner quien trata de explicar que el procedimiento de aprendizaje se basa a partir de que las posibles respuestas se determinan dependiendo de la posible consecuencia. En este sentido, Skinner a través de su análisis conductual desarrolla una serie de técnicas operantes para el desarrollo de la conductas definidas en la siguiente tabla:
@@ -201,49 +201,50 @@
     
     p.mb-5(data-aos="fade-right") Estos modelos se basan en la exploración cognitiva humana como ente activo del aprendizaje, desarrollado a través de varios métodos y habilidades mentales del ser. Se desarrolla a través de la correlación que tiene el hombre con el ambiente (entorno), la cual propicia que la persona procese, almacene y cuando sea necesario reproduzca. Este modelo también se conoce como el aprendizaje social y se puede evidenciar a partir de diferentes autores, uno de ellos Gagné quien indica que este modelo tiene diversas fases del conocimiento como son:
 
-    .tarjeta.d-flex.flex-wrap.p-4.p-lg-5.mb-5(style="background-color: #E8E8E8")
-      ul.col-lg-6.col-xl-5.pe-lg-4.order-2.order-lg-1.lista-ul.mb-3(data-aos="fade-right")
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Primera fase: motivación.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Segunda fase: prehensión.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Tercera fase: adquisición.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Cuarta fase: retención.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Quinta fase: recuperación.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Sexta fase: generalización.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Séptima fase: desempeño.
-        li
-          <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
-            <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
-          </svg>
-          | Octava fase: retroalimentación.
-      img.col-lg-6.col-xl-5.order-2.order-lg-1.mx-auto.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img-10.svg' data-aos="fade-left" style="max-width: 509px;")
+    .tarjeta.d-flex.flex-wrap.p-4.py-lg-5.mb-5(style="background-color: #E8E8E8")
+      .d-flex.flex-wrap.col-xl-10.mx-auto
+        ul.col-12.col-lg-6.pe-lg-4.order-2.order-lg-1.lista-ul.mb-4(data-aos="fade-right")
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Primera fase: motivación.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Segunda fase: prehensión.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Tercera fase: adquisición.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Cuarta fase: retención.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Quinta fase: recuperación.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Sexta fase: generalización.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Séptima fase: desempeño.
+          li
+            <svg style="max-width: 14px; margin-right: .5rem; margin-top: .3rem;" xmlns="http://www.w3.org/2000/svg" width="13.088" height="9.816" viewBox="0 0 13.088 9.816">
+              <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(0 -64.443)" fill="#f88f05"/>
+            </svg>
+            | Octava fase: retroalimentación.
+        img.col-lg-6.order-2.order-lg-1.mx-auto.mx-xl-0.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/img-10.svg' data-aos="fade-left" style="max-width: 509px;")
     
     .d-flex.mb-4
       h4.py-2.px-4(style="background-color: black; color: white;" data-aos="fade-right") c. Modelos constructivistas 
@@ -262,7 +263,7 @@
           h4.mb-0.ps-4 1. Adaptación
       .col-12.col-md-6.d-lg-5.col-xl-4.mb-4.px-2(data-aos="fade-left")
         .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FCC781;")
-          img(src="@/assets/curso/temas/tema6/img-12.svg" style="max-width: 70px;")
+          img(src="@/assets/curso/temas/tema6/img-13.svg" style="max-width: 70px;")
           h4.mb-0.ps-4 2. Acomodación 
     
     .d-flex.flex-wrap.align-items-center.mb-5
@@ -275,7 +276,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Herramientas pedagógicas
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") Herramientas pedagógicas
     
     .bg-text-edit.mb-5(data-aos="fade-right")
       img.mx-auto.mx-md-4.mb-4.mb-md-0(src="@/assets/curso/temas/tema6/img-15.png" style="max-width: 183px")

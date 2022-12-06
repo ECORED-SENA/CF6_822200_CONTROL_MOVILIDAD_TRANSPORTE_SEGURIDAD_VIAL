@@ -15,16 +15,16 @@
       img.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src="@/assets/curso/temas/tema2/img-1.png" data-aos="fade-left" style="max-width: 400px")
     
     .d-flex.flex-wrap.justify-content-center.mb-5
-      .col-lg-4.col-xl-3.px-md-2.d-flex
-        .tarjeta.p-5(style="background-color: #FEF0DE")
+      .col-12.col-md-8.col-lg-4.col-xl-3.px-md-2.d-flex.mb-4
+        .col-12.tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-2.svg" style="max-width: 190px" data-aos="fade-right")
           h4.text-center(data-aos="fade-left") Guardia de tráfico
-      .col-lg-4.col-xl-3.px-md-2.d-flex
-        .tarjeta.p-5(style="background-color: #FEF0DE")
+      .col-12.col-md-8.col-lg-4.col-xl-3.px-md-2.d-flex.mb-4
+        .col-12.tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-3.svg" style="max-width: 190px" data-aos="fade-right")
           h4.text-center(data-aos="fade-left") Lecciones sobre el tráfico
-      .col-lg-4.col-xl-3.px-md-2.d-flex
-        .tarjeta.p-5(style="background-color: #FEF0DE")
+      .col-12.col-md-8.col-lg-4.col-xl-3.px-md-2.d-flex.mb-4
+        .col-12.tarjeta.p-5(style="background-color: #FEF0DE")
           img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-4.svg" style="max-width: 190px" data-aos="fade-right")
           h4.text-center(data-aos="fade-left") Enseñar sobre las señales de tránsito
     

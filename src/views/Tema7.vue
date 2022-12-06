@@ -24,27 +24,27 @@
     .d-flex.flex-wrap.align-items-stretch.mb-5
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.mx-auto
         .tarjeta.p-4.d-flex.flex-wrap.h-100(style="background-color: #FEE3C0")
-          div(data-aos="fade-right")
-            img.mx-auto.mb-3(src='@/assets/curso/temas/tema7/img-3.svg' style="max-width: 190px")
-            p.text-center.fw-bold Compara
-            p.mb-0 Lo deseado con lo realizado.
+          .w-100(data-aos="fade-right")
+            img.mx-auto.mb-4(src='@/assets/curso/temas/tema7/img-3.svg' style="max-width: 190px")
+            h4.text-center.fw-bold Compara
+            p.text-center.mb-0 Lo deseado con lo realizado.
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4
         .tarjeta.p-4.d-flex.flex-wrap.h-100(style="background-color: #FEE3C0")
-          div(data-aos="fade-right")
-            img.mx-auto.mb-3(src='@/assets/curso/temas/tema7/img-4.svg' style="max-width: 190px")
-            p.text-center.fw-bold Da valor
+          .w-100(data-aos="fade-right")
+            img.mx-auto.mb-4(src='@/assets/curso/temas/tema7/img-4.svg' style="max-width: 190px")
+            h4.text-center.fw-bold Da valor
             p.mb-0 Estima cuantitativa y cualitativamente el valor, la importancia o la incidencia de determinados objetos, personas o hechos.
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4
         .tarjeta.p-4.d-flex.flex-wrap.h-100(style="background-color: #FEE3C0")
-          div(data-aos="fade-left")
-            img.mx-auto.mb-3(src='@/assets/curso/temas/tema7/img-5.svg' style="max-width: 190px")
-            p.text-center.fw-bold Describe
+          .w-100(data-aos="fade-left")
+            img.mx-auto.mb-4(src='@/assets/curso/temas/tema7/img-5.svg' style="max-width: 190px")
+            h4.text-center.fw-bold Describe
             p.mb-0 Con mayor precisión los aspectos cuantitativos y cualitativos de la estructura, el proceso y el producto de la educación.
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.mx-auto
         .tarjeta.p-4.d-flex.flex-wrap.h-100(style="background-color: #FEE3C0")
-          div(data-aos="fade-left")
-            img.mx-auto.mb-3(src='@/assets/curso/temas/tema7/img-6.svg' style="max-width: 190px")
-            p.text-center.fw-bold Comprueba
+          .w-100(data-aos="fade-left")
+            img.mx-auto.mb-4(src='@/assets/curso/temas/tema7/img-6.svg' style="max-width: 190px")
+            h4.text-center.fw-bold Comprueba
             p.mb-0 En qué medida se han logrado los resultados previstos en los objetivos fijados con antelación.
     
     p.mb-5.pb-5(data-aos="fade-right") De este modo, la educación se revierte en un ciclo de mejoramiento constante que emplea herramientas evaluativas para su evolución sistemática y cognitiva, basta con develar el conocimiento actual, ponerlo en práctica, ver su evolución en el tiempo, actualizar los conceptos y repotenciar el saber o la ideología para nuevamente iniciar el ciclo; no obstante, este conocimiento no se desecha, simplemente se actualiza para responder a las necesidades de la actualidad en cada tiempo observable como, por ejemplo, la actualización jurídica que sufrió el Artículo 95 del Código de Tránsito, que posterior a la evaluación jurídica se decidió actualizarlo de la siguiente manera: 

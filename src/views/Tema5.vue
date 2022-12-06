@@ -18,7 +18,7 @@
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: black; border-radius: 5px;")
         img(src='@/assets/curso/temas/tema1/icon-titulo.svg' style="max-width: 32px; margin-left: -16px;" data-aos="fade-right")
-        h4.col.ps-3.mb-0.text-white(data-aos="fade-right") Comportamiento vial
+        h3.col.ps-3.mb-0.text-white(data-aos="fade-right") Comportamiento vial
     
     .tarjeta.tarjeta--azul.p-4.mb-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-2_1.svg')})`}"

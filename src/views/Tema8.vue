@@ -24,18 +24,18 @@
       img.mx-auto.mx-md-4.mb-4.mb-md-0(src="@/assets/curso/temas/tema8/img-2.svg" style="max-width: 75px")
       p.ps-md-5.col-md.mb-0 Se puede decir, entonces, que el comportamiento humano juega el papel principal en la movilidad vial segura y que su estudio debe partir de la comprensión y relación que tiene la conducción y cómo asociarla a cada conductor, por ejemplo, realizar un esquema con un grupo de conductores, donde se enmarquen las siguientes clasificaciones de acuerdo con su estilo de conducción: 
 
-    ImagenInfografica.color-secundario.mb-5.col-xl-10.mx-auto(data-aos="fade-left")
+    ImagenInfografica.color-secundario.mb-5.col-xl-10.mx-auto(data-aos="fade-left" style="position: relative; z-index: 1;")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema8/img-3.svg')
 
-      .tarjeta.p-3(x="2%" y="10%" numero="+" style="background-color: #FFF1AE")
+      .tarjeta.p-3(x="2%" y="10%" numero="+" style="background-color: #FFF1AE;")
         p Adaptación al medio y de recolección de información ante el nuevo conocimiento.
-      .tarjeta.p-3(x="27%" y="74%" numero="+" style="background-color: #FFF1AE")
+      .tarjeta.p-3(x="27%" y="74%" numero="+" style="background-color: #FFF1AE;")
         p Se adquieren habilidades que hacen de la conducción un evento habitual y el conductor se siente más seguro de sí para responder a las eventualidades.
-      .tarjeta.p-3(x="56%" y="10%" numero="+" style="background-color: #FFF1AE")
+      .tarjeta.p-3(x="56%" y="10%" numero="+" style="background-color: #FFF1AE;")
         p Las personas experimentadas adquieren hábitos de autocuidado, mantienen la calma y respetan las normas de tránsito, normalmente su conducción es segura pero se ven afectados por los afanes del día a día, llegando a realizar una conducción agresiva.
-      .tarjeta.p-3(x="80%" y="74%" numero="+" style="background-color: #FFF1AE")
+      .tarjeta.p-3(x="80%" y="74%" numero="+" style="background-color: #FFF1AE;")
         p Las personas con gran pericia entran en una zona de confort y alienan su actividad de conducir con hábitos excesivos de confianza, a tal punto que elevan la velocidad de desplazamiento y se convierten en personas riesgosas para los demás usuarios. 
 
     .d-flex.flex-wrap.align-items-center.mb-5.p-4.pe-xl-0
