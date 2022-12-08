@@ -18,7 +18,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fj9ekN_ew0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GmgtZjlrImU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .bg-text-edit.mb-5(data-aos="fade-right")
       img.mx-auto.mx-md-4.mb-4.mb-md-0(src="@/assets/curso/temas/tema8/img-2.svg" style="max-width: 75px")

@@ -11,7 +11,7 @@
       p.order-2.order-xl-1.col-xl.pe-xl-4.mb-0(data-aos="fade-right") Teniendo en cuenta lo que menciona el Ministerio de Educación Nacional, la pedagogía se define como el saber de los docentes para orientar los procesos de formación de las personas, especialmente de niños y jóvenes, donde el docente genera una relación personal sobre lo que acontece diariamente en el trabajo con los alumnos, las alumnas y los colegas, para lograr el desarrollo humano y la construcción del conocimiento en ellos. 
         br
         br
-        |Los fundamentos pedagógicos se definen como “todos aquellos principios y conocimientos del área de la pedagogía, que permitirán al docente conocer los métodos de enseñanza y aprendizaje que podrá utilizar durante su labor como pedagogo” ( IMEI , 2019), por lo cual son la base de la educación donde el formador es quien propicia los espacios de análisis, reflexión y práctica.
+        |Los fundamentos pedagógicos se definen como “todos aquellos principios y conocimientos del área de la pedagogía, que permitirán al docente conocer los métodos de enseñanza y aprendizaje que podrá utilizar durante su labor como pedagogo” (IMEI, 2019), por lo cual son la base de la educación donde el formador es quien propicia los espacios de análisis, reflexión y práctica.
       img.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto(src="@/assets/curso/temas/tema2/img-1.png" data-aos="fade-left" style="max-width: 400px")
     
     .d-flex.flex-wrap.justify-content-center.mb-5

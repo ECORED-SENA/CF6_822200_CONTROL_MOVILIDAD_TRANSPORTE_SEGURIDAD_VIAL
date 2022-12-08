@@ -107,8 +107,8 @@
 
     p.mb-5.fw-bold(data-aos="fade-right") Condicionamiento clásico
     .bg-text-edit-right.mb-5(data-aos="fade-right")
-      p.pe-md-5.col-md.mb-0.order-2.order-md-1 Centrado en el aprendizaje a través de la asociación de estímulos con la generación de reacciones y/o respuestas además de las respuestas neutras. Sus principales teóricos son Pavlov y Watson y sus características destacadas recaen directamente en la implicación de las respuestas, ya que estas deben ser automáticas y no conductas voluntarias como lo menciona Castillero en su libro “Psicología y mente”. Ver tabla.
-      img.mx-auto.me-md-5.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema6/img-7.svg" style="max-width: 70px")
+      p.pe-md-5.pe-xl-0.col-md.col-xl-10.mb-0.order-2.order-md-1 Centrado en el aprendizaje a través de la asociación de estímulos con la generación de reacciones y/o respuestas además de las respuestas neutras. Sus principales teóricos son Pavlov y Watson y sus características destacadas recaen directamente en la implicación de las respuestas, ya que estas deben ser automáticas y no conductas voluntarias como lo menciona Castillero en su libro “Psicología y mente”. Ver tabla.
+      img.mx-auto.me-md-5.mx-xl-auto.mb-4.mb-md-0.order-1.order-md-2.col-xl-2(src="@/assets/curso/temas/tema6/img-7.svg" style="max-width: 70px")
     .col-xl-8.mx-auto(data-aos="fade-left")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 1.
@@ -171,7 +171,7 @@
         h3.col.ps-3.mb-0.text-white(data-aos="fade-right") Condicionamiento operante
     
     .bg-text-edit-right.mb-5(data-aos="fade-left")
-      p.pe-md-5.col-md.mb-0.order-2.order-md-1 Es una invención realizada por el Psicólogo B.F Skinner quien trata de explicar que el procedimiento de aprendizaje se basa a partir de que las posibles respuestas se determinan dependiendo de la posible consecuencia. En este sentido, Skinner a través de su análisis conductual desarrolla una serie de técnicas operantes para el desarrollo de la conductas definidas en la siguiente tabla:
+      p.pe-md-5.col-md.mb-0.order-2.order-md-1 Es una invención realizada por el Psicólogo B.F Skinner quien trata de explicar que el procedimiento de aprendizaje se basa a partir de que las posibles respuestas se determinan dependiendo de la posible consecuencia. En este sentido, Skinner a través de su análisis conductual desarrolla una serie de técnicas operantes para el desarrollo de las conductas definidas en la siguiente tabla:
       img.mx-auto.mx-md-4.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema6/img-9.svg" style="max-width: 80px")
 
     .col-xl-8.mx-auto(data-aos="fade-left")

@@ -45,7 +45,7 @@
           p.col-xl.pe-xl-4.mb-0.order-2.order-xl-1(style="color: black !important") Obtiene sus principios bajo ideas filosóficas encaminadas al pragmatismo, uno de los teóricos de este modelo es Rodríguez, S. quien expone que el progresismo pedagógico es el aseguramiento de la sociedad respecto a su propio desarrollo.
             br
             br
-            |Este modelo apuesta por la creatividad e intereses de la persona para desarrollar y fortalecer la habilidades que posee.
+            |Este modelo apuesta por la creatividad e intereses de la persona para desarrollar y fortalecer las habilidades que posee.
           img.order-1.order-xl-2.mb-4.mb-xl-0.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema4/img-5.png" style="max-width: 293px")
 
       
